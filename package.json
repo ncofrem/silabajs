@@ -1,0 +1,27 @@
+{
+  "name": "silabajs",
+  "version": "1.0.0",
+  "description": "Library to split Spanish word into syllables",
+  "main": "silaba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicofrem/silabajs.git"
+  },
+  "keywords": [
+    "Silabas",
+    "Palabra",
+    "Español",
+    "Syllables",
+    "Word",
+    "Spanish"
+  ],
+  "author": "nicofrem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicofrem/silabajs/issues"
+  },
+  "homepage": "https://github.com/nicofrem/silabajs#readme"
+}
